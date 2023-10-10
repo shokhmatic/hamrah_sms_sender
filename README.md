@@ -24,3 +24,6 @@ For example:
 python main.py 09355555555
 `
 
+## Example Log
+
+![log](./assets/output.jpg)
